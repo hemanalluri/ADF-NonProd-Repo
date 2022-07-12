@@ -1,0 +1,9 @@
+{
+	"name": "nonprodsampleadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71ecd895-941c-48a6-8b37-1def03403790",
+		"tenantId": "32825a2f-f7a5-40ef-a19c-d9d83b6a1bb4"
+	}
+}
